@@ -1,0 +1,165 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Black Bass headphones for Laptops",
+      "price": 120.95,
+      "description": "Your perfect pack for everyday use and walks in the forest listening music .laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "headphone",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1703924513/Croma%20Assets/Entertainment/Headphones%20and%20Earphones/Images/303684_ouizfs.png?tr=w-480",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": " Off-white trending Earbuds ",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long , three-button, light weight & soft and comfortable wearing. And Solid  made for durability and a gr baseball fans.three-button placket.",
+      "category": "earbud",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/products/ion-W_800x.png?v=1678780574",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Super bass earphones Yellow color",
+      "price": 55.99,
+      "description": "great outerwear Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "earphone",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/products/main2_d46d18bd-17a2-417a-af86-9f851bdf7068_300x.png?v=1645083010",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Full Party Speaker Handy and Easy to use",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. detailed Bass information should be reviewed below on the product description.",
+      "category": "speaker",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/files/PartyPal185_600x.png?v=1698906196",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Speaker Legends Station ",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "speaker",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/products/e57bbbe7-5e99-4c43-8cf8-0ddd42caf3d3_77dfbc2e-987a-4607-8947-0e6782965d5c_600x.png?v=1679336862",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Speaker Bass ",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "speaker",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/190im_medium.png?v=1639989652",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "Black Gold Plated Princess Speaker",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Speaker musics Day...",
+      "category": "speaker",
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard1_1571a4a4-35c9-4aa8-ba83-f0be59c93fe0_medium.png?v=1695197412",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": " Earphones Pierced Owl Red Gold ",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earphones. Made of 316L Stainless Steel",
+      "category": "earphone",
+      "image": "https://www.boat-lifestyle.com/cdn/shop/products/bc09bf93-8b92-4fe7-84ae-fea68c4a6cfc_300x.png?v=1625046385",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    }
+  ],
+  "login": [
+    {
+      "username": "admin",
+      "password": "admin@123"
+    },
+    {
+      "first_name": "Sahil",
+      "last_name": "Bhawani",
+      "email": "sbhawa@G.C",
+      "password": "SAHGSAH",
+      "id": "iJUt7gN"
+    },
+    {
+      "email": "s@f.c",
+      "password": "njjnss",
+      "id": "pNEaXGC"
+    },
+    {
+      "email": "sbhawa@G.C",
+      "password": "SAHGSAH",
+      "id": "nT-MX5V"
+    },
+    {
+      "email": "sbhawa@G.C",
+      "password": "SAHGSAH",
+      "id": "cVUAnpF"
+    },
+    {
+      "email": "ssjhsjh@g.com",
+      "password": "sajsj",
+      "id": "CoH4YNm"
+    },
+    {
+      "email": "sbhawa@G.C",
+      "password": "SAHGSAH",
+      "id": "_eklF4D"
+    },
+    {
+      "first_name": "sgsg",
+      "last_name": "GSGSG",
+      "email": "s@g.c",
+      "password": "s",
+      "id": "zSY7NEe"
+    },
+    {
+      "email": "a@f.v",
+      "password": "SAHGSAH",
+      "id": "NcKYeL5"
+    },
+    {
+      "email": "s@g.c",
+      "password": "s",
+      "id": "lrkQ3te"
+    },
+    {
+      "email": "s@g.c",
+      "password": "s",
+      "id": "nzsHgdK"
+    },
+    {
+      "email": "s@g.c",
+      "password": "s",
+      "id": "D0jafjm"
+    }
+  ]
+}
